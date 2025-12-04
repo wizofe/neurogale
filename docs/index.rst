@@ -99,6 +99,7 @@ If you use **NEUROGALE** in your research, please cite:
      author = {Valasakis, Ioannis},
      title = {NEUROGALE: GPU-Accelerated Large-scale Exploration for Brain Connectivity Analysis},
      year = {2025},
+     doi = {https://doi.org/10.5281/zenodo.17419836},
      url = {https://github.com/wizofe/neurogale},
      version = {0.2.0},
      note = {Documentation available at https://neurogale.readthedocs.io}
